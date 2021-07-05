@@ -1,4 +1,4 @@
-# Move_To_Front_Encoder_Decoder
+# Move To Front Encoder Decoder
 This is an Encoder and Decoder that Uses a Move to front List
 
 
